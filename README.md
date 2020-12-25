@@ -1,1 +1,1 @@
-# spaceship
+# alien-shooting game
